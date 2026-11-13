@@ -1,0 +1,43 @@
+
+# LANGCHAIN
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+
+# GROQ LLM
+langchain-groq
+
+# HUGGING FACE EMBEDDINGS
+langchain-huggingface
+sentence-transformers
+
+# VECTOR DATABASE
+langchain-chroma
+chromadb
+
+# DOCUMENT LOADERS
+pypdf
+pymupdf
+docx2txt
+beautifulsoup4
+requests
+
+# DATA HANDLING AND MACHINE LEARNING
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pydantic
+
+# ENVIRONMENT
+python-dotenv
+
+# STREAMLIT UI
+streamlit
+
+# JUPYTER
+jupyter
+ipykernel
